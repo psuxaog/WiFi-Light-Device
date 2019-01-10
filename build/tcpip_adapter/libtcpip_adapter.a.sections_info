@@ -1,4 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/tcpip_adapter/libtcpip_adapter.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/tcpip_adapter/libtcpip_adapter.a:
 
 tcpip_adapter_lwip.o:     file format elf32-xtensa-le
 
@@ -198,7 +198,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  96 .text.tcpip_adapter_dhcps_stop_api 00000010  00000000  00000000  00001688  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 97 .text.tcpip_adapter_dhcpc_option 00000007  00000000  00000000  00001698  2**2
+ 97 .text.tcpip_adapter_dhcpc_option 00000008  00000000  00000000  00001698  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, CODE
  98 .text.tcpip_adapter_dhcpc_get_status 00000011  00000000  00000000  000016a0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -234,9 +234,9 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
 114 .text.tcpip_adapter_is_netif_up 00000025  00000000  00000000  00001c7c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-115 .bss.hostinfo$8738 00000063  00000000  00000000  00001ca4  2**2
+115 .bss.hostinfo$8740 00000063  00000000  00000000  00001ca4  2**2
                   ALLOC
-116 .rodata.__func__$8510 00000014  00000000  00000000  00001ca4  2**2
+116 .rodata.__func__$8512 00000014  00000000  00000000  00001ca4  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
 117 .bss.api_lock_sem 00000004  00000000  00000000  00001cb8  2**2
                   ALLOC
@@ -262,25 +262,25 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
 128 .debug_frame  00000550  00000000  00000000  00001cb8  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
-129 .debug_info   0000336c  00000000  00000000  00002208  2**0
+129 .debug_info   0000337c  00000000  00000000  00002208  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-130 .debug_abbrev 000003fc  00000000  00000000  00005574  2**0
+130 .debug_abbrev 000003fc  00000000  00000000  00005584  2**0
                   CONTENTS, READONLY, DEBUGGING
-131 .debug_loc    00001447  00000000  00000000  00005970  2**0
+131 .debug_loc    00001447  00000000  00000000  00005980  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-132 .debug_aranges 000001d8  00000000  00000000  00006db7  2**0
+132 .debug_aranges 000001d8  00000000  00000000  00006dc7  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-133 .debug_ranges 00000210  00000000  00000000  00006f8f  2**0
+133 .debug_ranges 00000210  00000000  00000000  00006f9f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-134 .debug_line   00001886  00000000  00000000  0000719f  2**0
+134 .debug_line   00001896  00000000  00000000  000071af  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-135 .debug_str    00002420  00000000  00000000  00008a25  2**0
+135 .debug_str    0000242f  00000000  00000000  00008a45  2**0
                   CONTENTS, READONLY, DEBUGGING
-136 .comment      0000003c  00000000  00000000  0000ae45  2**0
+136 .comment      0000003b  00000000  00000000  0000ae74  2**0
                   CONTENTS, READONLY
-137 .xtensa.info  00000038  00000000  00000000  0000ae81  2**0
+137 .xtensa.info  00000038  00000000  00000000  0000aeaf  2**0
                   CONTENTS, READONLY
-138 .xt.lit       000001b8  00000000  00000000  0000aeb9  2**0
+138 .xt.lit       000001b8  00000000  00000000  0000aee7  2**0
                   CONTENTS, RELOC, READONLY
-139 .xt.prop      0000195c  00000000  00000000  0000b071  2**0
+139 .xt.prop      0000195c  00000000  00000000  0000b09f  2**0
                   CONTENTS, RELOC, READONLY

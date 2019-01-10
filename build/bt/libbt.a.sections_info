@@ -1,4 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/bt/libbt.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/bt/libbt.a:
 
 bt.o:     file format elf32-xtensa-le
 
@@ -18,9 +18,9 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
   6 .debug_line   0000001d  00000000  00000000  000000eb  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_str    00000168  00000000  00000000  00000108  2**0
+  7 .debug_str    0000016d  00000000  00000000  00000108  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .comment      0000003c  00000000  00000000  00000270  2**0
+  8 .comment      0000003b  00000000  00000000  00000275  2**0
                   CONTENTS, READONLY
-  9 .xtensa.info  00000038  00000000  00000000  000002ac  2**0
+  9 .xtensa.info  00000038  00000000  00000000  000002b0  2**0
                   CONTENTS, READONLY

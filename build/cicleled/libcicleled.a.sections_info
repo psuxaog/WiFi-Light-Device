@@ -1,10 +1,10 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/cicleled/libcicleled.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/cicleled/libcicleled.a:
 
 cicleled.o:     file format elf32-xtensa-le
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
-  0 .iram1.literal 00000008  00000000  00000000  00000034  2**2
+  0 .iram1.13.literal 00000008  00000000  00000000  00000034  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
   1 .literal.cicleled_init 00000030  00000000  00000000  0000003c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -16,43 +16,43 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, DATA
   5 .bss          00000000  00000000  00000000  00000080  2**0
                   ALLOC
-  6 .iram1        00000075  00000000  00000000  00000080  2**2
+  6 .iram1.13     00000075  00000000  00000000  00000080  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  7 .rodata.str1.4 000000dd  00000000  00000000  000000f8  2**2
+  7 .rodata.str1.4 000000d1  00000000  00000000  000000f8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
-  8 .text.cicleled_init 0000008a  00000000  00000000  000001d8  2**2
+  8 .text.cicleled_init 0000008a  00000000  00000000  000001cc  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  9 .text.cicleled_write 00000027  00000000  00000000  00000264  2**2
+  9 .text.cicleled_write 00000027  00000000  00000000  00000258  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 10 .rodata.__func__$5740 0000000f  00000000  00000000  0000028c  2**2
+ 10 .rodata.__func__$5740 0000000f  00000000  00000000  00000280  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 11 .rodata.bit0$5715 00000004  00000000  00000000  0000029c  2**2
+ 11 .rodata.bit0$5715 00000004  00000000  00000000  00000290  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 12 .rodata.bit1$5716 00000004  00000000  00000000  000002a0  2**2
+ 12 .rodata.bit1$5716 00000004  00000000  00000000  00000294  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 13 .rodata.__func__$5732 0000000e  00000000  00000000  000002a4  2**2
+ 13 .rodata.__func__$5732 0000000e  00000000  00000000  00000298  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 14 .debug_frame  00000058  00000000  00000000  000002b4  2**2
+ 14 .debug_frame  00000058  00000000  00000000  000002a8  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 15 .debug_info   000007a4  00000000  00000000  0000030c  2**0
+ 15 .debug_info   000007a4  00000000  00000000  00000300  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 16 .debug_abbrev 0000020c  00000000  00000000  00000ab0  2**0
+ 16 .debug_abbrev 0000020c  00000000  00000000  00000aa4  2**0
                   CONTENTS, READONLY, DEBUGGING
- 17 .debug_loc    00000182  00000000  00000000  00000cbc  2**0
+ 17 .debug_loc    00000182  00000000  00000000  00000cb0  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_aranges 00000030  00000000  00000000  00000e3e  2**0
+ 18 .debug_aranges 00000030  00000000  00000000  00000e32  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 19 .debug_ranges 00000038  00000000  00000000  00000e6e  2**0
+ 19 .debug_ranges 00000038  00000000  00000000  00000e62  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 20 .debug_line   00000345  00000000  00000000  00000ea6  2**0
+ 20 .debug_line   0000032b  00000000  00000000  00000e9a  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 21 .debug_str    000006f6  00000000  00000000  000011eb  2**0
+ 21 .debug_str    000006f0  00000000  00000000  000011c5  2**0
                   CONTENTS, READONLY, DEBUGGING
- 22 .comment      0000003c  00000000  00000000  000018e1  2**0
+ 22 .comment      0000003b  00000000  00000000  000018b5  2**0
                   CONTENTS, READONLY
- 23 .xtensa.info  00000038  00000000  00000000  0000191d  2**0
+ 23 .xtensa.info  00000038  00000000  00000000  000018f0  2**0
                   CONTENTS, READONLY
- 24 .xt.lit       00000018  00000000  00000000  00001955  2**0
+ 24 .xt.lit       00000018  00000000  00000000  00001928  2**0
                   CONTENTS, RELOC, READONLY
- 25 .xt.prop      00000150  00000000  00000000  0000196d  2**0
+ 25 .xt.prop      00000150  00000000  00000000  00001940  2**0
                   CONTENTS, RELOC, READONLY

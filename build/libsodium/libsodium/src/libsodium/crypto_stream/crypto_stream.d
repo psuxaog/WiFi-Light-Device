@@ -1,60 +1,60 @@
 libsodium/src/libsodium/crypto_stream/crypto_stream.o: \
- D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_stream/crypto_stream.c \
- D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream.h \
- D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream_xsalsa20.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/stdint.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_default_types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/features.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_intsup.h \
- D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
- D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/randombytes.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/_ansi.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/newlib.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/config.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/ieeefp.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/lock.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/sched.h
+ /home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_stream/crypto_stream.c \
+ /home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream.h \
+ /home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream_xsalsa20.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/stdint.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/features.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
+ /home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
+ /home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/randombytes.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/_ansi.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/newlib.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/config.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/ieeefp.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/_types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/_types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/lock.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/sched.h
 
-D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream.h:
+/home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream.h:
 
-D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream_xsalsa20.h:
+/home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_stream_xsalsa20.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/stdint.h:
+/home/linx/esp32/esp-idf/components/newlib/include/stdint.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_default_types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/_default_types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/features.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/features.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_intsup.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/_intsup.h:
 
-D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h:
+/home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h:
 
-D:/msys32/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/randombytes.h:
+/home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/randombytes.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/_ansi.h:
+/home/linx/esp32/esp-idf/components/newlib/include/_ansi.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/newlib.h:
+/home/linx/esp32/esp-idf/components/newlib/include/newlib.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/config.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/config.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/ieeefp.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/ieeefp.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/_types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/_types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/lock.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/lock.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/sched.h:
-/usr/src/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_stream/crypto_stream.c:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/sched.h:
+/home/linx/esp32/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_stream/crypto_stream.c:

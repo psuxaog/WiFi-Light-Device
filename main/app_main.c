@@ -6,7 +6,7 @@
 #include "esp_system.h"
 #include "nvs_flash.h"
 #include "esp_event_loop.h"
-#include "blespeakerui.h"
+#include "ui.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "freertos/semphr.h"
@@ -18,7 +18,7 @@
 #include "lwip/netdb.h"
 #include "oled.h"
 #include "esp_smartconfig.h"
-#include "cjson.h"
+#include "cJSON.h"
 #include "cicleled.h"
 #include "esp_log.h"
 #include "mqtt_client.h"
@@ -393,6 +393,7 @@ void app_main()
 	ESP_LOGI(TAG, "[APP] Free memory: %d bytes", esp_get_free_heap_size());
 	ESP_LOGI(TAG, "[APP] IDF version: %s", esp_get_idf_version());
 	OLED_Init();
+
 	xKeyQueue = xQueueCreate(10, sizeof(eKey_t));
 	xLedQueue = xQueueCreate(10, sizeof(sLed_t));
 	vUI_SetKeyQueue(&xKeyQueue);

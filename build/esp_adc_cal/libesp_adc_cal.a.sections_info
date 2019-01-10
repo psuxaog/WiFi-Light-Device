@@ -1,4 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/esp_adc_cal/libesp_adc_cal.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/esp_adc_cal/libesp_adc_cal.a:
 
 esp_adc_cal.o:     file format elf32-xtensa-le
 
@@ -116,15 +116,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  55 .debug_ranges 00000098  00000000  00000000  0000256b  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 56 .debug_line   0000069e  00000000  00000000  00002603  2**0
+ 56 .debug_line   00000698  00000000  00000000  00002603  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 57 .debug_str    000008f8  00000000  00000000  00002ca1  2**0
+ 57 .debug_str    000008fd  00000000  00000000  00002c9b  2**0
                   CONTENTS, READONLY, DEBUGGING
- 58 .comment      0000003c  00000000  00000000  00003599  2**0
+ 58 .comment      0000003b  00000000  00000000  00003598  2**0
                   CONTENTS, READONLY
- 59 .xtensa.info  00000038  00000000  00000000  000035d5  2**0
+ 59 .xtensa.info  00000038  00000000  00000000  000035d3  2**0
                   CONTENTS, READONLY
- 60 .xt.lit       00000078  00000000  00000000  0000360d  2**0
+ 60 .xt.lit       00000078  00000000  00000000  0000360b  2**0
                   CONTENTS, RELOC, READONLY
- 61 .xt.prop      000006b4  00000000  00000000  00003685  2**0
+ 61 .xt.prop      000006b4  00000000  00000000  00003683  2**0
                   CONTENTS, RELOC, READONLY

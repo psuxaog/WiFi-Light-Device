@@ -1,165 +1,165 @@
 mbedtls/library/pkparse.o: \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/library/pkparse.c \
- D:/msys32/usr/src/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- D:/msys32/usr/src/esp-idf/github/wifilight/build/include/sdkconfig.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/port/include/esp_mem.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/stdlib.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/ieeefp.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/_ansi.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/newlib.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/config.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/features.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/reent.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/_ansi.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_default_types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/lock.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/cdefs.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/stdlib.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/alloca.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/limits.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/stdint.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_intsup.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/stdio.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/types.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/sched.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/stdio.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/string.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/string.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs5.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs12.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h \
- D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h \
- D:/msys32/usr/src/esp-idf/components/newlib/platform_include/time.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/time.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/machine/time.h
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/library/pkparse.c \
+ /home/linx/esp32/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
+ /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/include/sdkconfig.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/port/include/esp_mem.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/stdlib.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/ieeefp.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/_ansi.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/newlib.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/config.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/features.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/reent.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/_ansi.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/_types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/_types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/_default_types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/lock.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/cdefs.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/stdlib.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/alloca.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/limits.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/stdint.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/_intsup.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/stdio.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/types.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/sched.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/stdio.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/string.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/string.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs5.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs12.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h \
+ /home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h \
+ /home/linx/esp32/esp-idf/components/newlib/platform_include/time.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/time.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/machine/time.h
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
+/home/linx/esp32/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-D:/msys32/usr/src/esp-idf/github/wifilight/build/include/sdkconfig.h:
+/home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/include/sdkconfig.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/port/include/esp_mem.h:
+/home/linx/esp32/esp-idf/components/mbedtls/port/include/esp_mem.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/stdlib.h:
+/home/linx/esp32/esp-idf/components/newlib/include/stdlib.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/ieeefp.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/ieeefp.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/_ansi.h:
+/home/linx/esp32/esp-idf/components/newlib/include/_ansi.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/newlib.h:
+/home/linx/esp32/esp-idf/components/newlib/include/newlib.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/config.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/config.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/features.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/features.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/reent.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/reent.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/_ansi.h:
+/home/linx/esp32/esp-idf/components/newlib/include/_ansi.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/_types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/_types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/_default_types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/_default_types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/lock.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/lock.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/cdefs.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/cdefs.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/stdlib.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/stdlib.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/alloca.h:
+/home/linx/esp32/esp-idf/components/newlib/include/alloca.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/limits.h:
+/home/linx/esp32/esp-idf/components/newlib/include/limits.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/stdint.h:
+/home/linx/esp32/esp-idf/components/newlib/include/stdint.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/_intsup.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/_intsup.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/stdio.h:
+/home/linx/esp32/esp-idf/components/newlib/include/stdio.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/types.h:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/types.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/sched.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/sched.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/stdio.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/stdio.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/string.h:
+/home/linx/esp32/esp-idf/components/newlib/include/string.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/string.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/string.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs5.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs5.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs12.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs12.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h:
 
-D:/msys32/usr/src/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/platform_include/time.h:
+/home/linx/esp32/esp-idf/components/newlib/platform_include/time.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/time.h:
+/home/linx/esp32/esp-idf/components/newlib/include/time.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/machine/time.h:
-/usr/src/esp-idf/components/mbedtls/mbedtls/library/pkparse.c:
+/home/linx/esp32/esp-idf/components/newlib/include/machine/time.h:
+/home/linx/esp32/esp-idf/components/mbedtls/mbedtls/library/pkparse.c:

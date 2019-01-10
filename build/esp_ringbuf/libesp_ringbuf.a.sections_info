@@ -1,4 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/esp_ringbuf/libesp_ringbuf.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/esp_ringbuf/libesp_ringbuf.a:
 
 ringbuf.o:     file format elf32-xtensa-le
 
@@ -240,15 +240,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 117 .debug_ranges 00000170  00000000  00000000  00006e11  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-118 .debug_line   00001595  00000000  00000000  00006f81  2**0
+118 .debug_line   00001586  00000000  00000000  00006f81  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-119 .debug_str    00000b00  00000000  00000000  00008516  2**0
+119 .debug_str    00000b05  00000000  00000000  00008507  2**0
                   CONTENTS, READONLY, DEBUGGING
-120 .comment      0000003c  00000000  00000000  00009016  2**0
+120 .comment      0000003b  00000000  00000000  0000900c  2**0
                   CONTENTS, READONLY
-121 .xtensa.info  00000038  00000000  00000000  00009052  2**0
+121 .xtensa.info  00000038  00000000  00000000  00009047  2**0
                   CONTENTS, READONLY
-122 .xt.lit       00000118  00000000  00000000  0000908a  2**0
+122 .xt.lit       00000118  00000000  00000000  0000907f  2**0
                   CONTENTS, RELOC, READONLY
-123 .xt.prop      00001464  00000000  00000000  000091a2  2**0
+123 .xt.prop      00001464  00000000  00000000  00009197  2**0
                   CONTENTS, RELOC, READONLY

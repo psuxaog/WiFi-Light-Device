@@ -1,4 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/micro-ecc/libmicro-ecc.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/micro-ecc/libmicro-ecc.a:
 
 uECC.o:     file format elf32-xtensa-le
 
@@ -296,15 +296,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 145 .debug_ranges 00000278  00000000  00000000  0000b4cf  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-146 .debug_line   00001d28  00000000  00000000  0000b747  2**0
+146 .debug_line   00001d25  00000000  00000000  0000b747  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-147 .debug_str    000009b1  00000000  00000000  0000d46f  2**0
+147 .debug_str    000009b0  00000000  00000000  0000d46c  2**0
                   CONTENTS, READONLY, DEBUGGING
-148 .comment      0000003c  00000000  00000000  0000de20  2**0
+148 .comment      0000003b  00000000  00000000  0000de1c  2**0
                   CONTENTS, READONLY
-149 .xtensa.info  00000038  00000000  00000000  0000de5c  2**0
+149 .xtensa.info  00000038  00000000  00000000  0000de57  2**0
                   CONTENTS, READONLY
-150 .xt.lit       000001c0  00000000  00000000  0000de94  2**0
+150 .xt.lit       000001c0  00000000  00000000  0000de8f  2**0
                   CONTENTS, RELOC, READONLY
-151 .xt.prop      00001734  00000000  00000000  0000e054  2**0
+151 .xt.prop      00001734  00000000  00000000  0000e04f  2**0
                   CONTENTS, RELOC, READONLY

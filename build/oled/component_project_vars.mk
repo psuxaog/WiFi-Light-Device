@@ -1,5 +1,5 @@
 # Automatically generated build file. Do not edit.
-COMPONENT_INCLUDES += $(IDF_PATH)/components/oled/include
+COMPONENT_INCLUDES += $(IDF_PATH)/oled/include
 COMPONENT_LDFLAGS += -L$(BUILD_DIR_BASE)/oled -loled
 COMPONENT_LINKER_DEPS += 
 COMPONENT_SUBMODULES += 

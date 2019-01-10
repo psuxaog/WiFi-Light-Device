@@ -1,54 +1,54 @@
 xtensa_intr_asm.o: \
- D:/msys32/usr/src/esp-idf/components/freertos/xtensa_intr_asm.S \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/hal.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/xtensa-versions.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/tie.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/tie-asm.h \
- D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/xtensa_context.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/coreasm.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/specreg.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/corebits.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/system.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
- D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- D:/msys32/usr/src/esp-idf/github/wifilight/build/include/sdkconfig.h \
- D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/xtensa_config.h \
- D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/xtensa_context.h
+ /home/linx/esp32/esp-idf/components/freertos/xtensa_intr_asm.S \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/xtensa-versions.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/tie.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/tie-asm.h \
+ /home/linx/esp32/esp-idf/components/freertos/include/freertos/xtensa_context.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/coreasm.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/specreg.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/corebits.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/system.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
+ /home/linx/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
+ /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/include/sdkconfig.h \
+ /home/linx/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h \
+ /home/linx/esp32/esp-idf/components/freertos/include/freertos/xtensa_context.h
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/hal.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/hal.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/xtensa-versions.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/xtensa-versions.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-matmap.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-matmap.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/tie.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/tie.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/tie-asm.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/tie-asm.h:
 
-D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+/home/linx/esp32/esp-idf/components/freertos/include/freertos/xtensa_context.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/coreasm.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/coreasm.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/specreg.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/specreg.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/corebits.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/corebits.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/system.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/system.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h:
 
-D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
+/home/linx/esp32/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-D:/msys32/usr/src/esp-idf/github/wifilight/build/include/sdkconfig.h:
+/home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/include/sdkconfig.h:
 
-D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/xtensa_config.h:
+/home/linx/esp32/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
-D:/msys32/usr/src/esp-idf/components/freertos/include/freertos/xtensa_context.h:
-/usr/src/esp-idf/components/freertos/./xtensa_intr_asm.S:
+/home/linx/esp32/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+/home/linx/esp32/esp-idf/components/freertos/./xtensa_intr_asm.S:

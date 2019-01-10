@@ -1,61 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/cxx/libcxx.a:
-
-cxx_exception_stubs.o:     file format elf32-xtensa-le
-
-Sections:
-Idx Name          Size      VMA       LMA       File off  Algn
-  0 .literal.__cxx_fatal_exception 00000004  00000000  00000000  00000034  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  1 .literal.__cxx_fatal_exception_bool 00000004  00000000  00000000  00000038  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  2 .literal.__cxx_fatal_exception_message 00000010  00000000  00000000  0000003c  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  3 .literal.__cxx_fatal_exception_message_va 00000004  00000000  00000000  0000004c  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  4 .literal.__cxx_fatal_exception_int 00000010  00000000  00000000  00000050  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  5 .text         00000000  00000000  00000000  00000060  2**0
-                  CONTENTS, ALLOC, LOAD, READONLY, CODE
-  6 .data         00000000  00000000  00000000  00000060  2**0
-                  CONTENTS, ALLOC, LOAD, DATA
-  7 .bss          00000000  00000000  00000000  00000060  2**0
-                  ALLOC
-  8 .text.__cxx_fatal_exception 00000009  00000000  00000000  00000060  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  9 .text.__cxx_fatal_exception_bool 00000009  00000000  00000000  0000006c  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 10 .rodata.str1.4 0000002a  00000000  00000000  00000078  2**2
-                  CONTENTS, ALLOC, LOAD, READONLY, DATA
- 11 .text.__cxx_fatal_exception_message 0000001a  00000000  00000000  000000a4  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 12 .text.__cxx_fatal_exception_message_va 0000000c  00000000  00000000  000000c0  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 13 .text.__cxx_fatal_exception_int 0000001a  00000000  00000000  000000cc  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 14 .data.FATAL_EXCEPTION 00000004  00000000  00000000  000000e8  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, DATA
- 15 .debug_frame  00000088  00000000  00000000  000000ec  2**2
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 16 .debug_info   00001204  00000000  00000000  00000174  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 17 .debug_abbrev 0000032e  00000000  00000000  00001378  2**0
-                  CONTENTS, READONLY, DEBUGGING
- 18 .debug_aranges 00000040  00000000  00000000  000016a6  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 19 .debug_ranges 00000030  00000000  00000000  000016e6  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 20 .debug_line   000002f7  00000000  00000000  00001716  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 21 .debug_str    00000ae9  00000000  00000000  00001a0d  2**0
-                  CONTENTS, READONLY, DEBUGGING
- 22 .comment      0000003c  00000000  00000000  000024f6  2**0
-                  CONTENTS, READONLY
- 23 .xtensa.info  00000038  00000000  00000000  00002532  2**0
-                  CONTENTS, READONLY
- 24 .xt.lit       00000028  00000000  00000000  0000256a  2**0
-                  CONTENTS, RELOC, READONLY
- 25 .xt.prop      000000c0  00000000  00000000  00002592  2**0
-                  CONTENTS, RELOC, READONLY
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/cxx/libcxx.a:
 
 cxx_guards.o:     file format elf32-xtensa-le
 
@@ -115,25 +58,82 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
  26 .debug_frame  000000b8  00000000  00000000  000005c0  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 27 .debug_info   00003071  00000000  00000000  00000678  2**0
+ 27 .debug_info   00003097  00000000  00000000  00000678  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 28 .debug_abbrev 00000613  00000000  00000000  000036e9  2**0
+ 28 .debug_abbrev 00000613  00000000  00000000  0000370f  2**0
                   CONTENTS, READONLY, DEBUGGING
- 29 .debug_loc    00000234  00000000  00000000  00003cfc  2**0
+ 29 .debug_loc    00000234  00000000  00000000  00003d22  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 30 .debug_aranges 00000050  00000000  00000000  00003f30  2**0
+ 30 .debug_aranges 00000050  00000000  00000000  00003f56  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 31 .debug_ranges 00000040  00000000  00000000  00003f80  2**0
+ 31 .debug_ranges 00000040  00000000  00000000  00003fa6  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 32 .debug_line   00000872  00000000  00000000  00003fc0  2**0
+ 32 .debug_line   00000847  00000000  00000000  00003fe6  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 33 .debug_str    0000277f  00000000  00000000  00004832  2**0
+ 33 .debug_str    00002795  00000000  00000000  0000482d  2**0
                   CONTENTS, READONLY, DEBUGGING
- 34 .comment      0000003c  00000000  00000000  00006fb1  2**0
+ 34 .comment      0000003b  00000000  00000000  00006fc2  2**0
                   CONTENTS, READONLY
- 35 .xtensa.info  00000038  00000000  00000000  00006fed  2**0
+ 35 .xtensa.info  00000038  00000000  00000000  00006ffd  2**0
                   CONTENTS, READONLY
- 36 .xt.lit       00000030  00000000  00000000  00007025  2**0
+ 36 .xt.lit       00000030  00000000  00000000  00007035  2**0
                   CONTENTS, RELOC, READONLY
- 37 .xt.prop      00000288  00000000  00000000  00007055  2**0
+ 37 .xt.prop      00000288  00000000  00000000  00007065  2**0
+                  CONTENTS, RELOC, READONLY
+
+cxx_exception_stubs.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.__cxx_fatal_exception 00000004  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.__cxx_fatal_exception_bool 00000004  00000000  00000000  00000038  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.__cxx_fatal_exception_message 00000010  00000000  00000000  0000003c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.__cxx_fatal_exception_message_va 00000004  00000000  00000000  0000004c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .literal.__cxx_fatal_exception_int 00000010  00000000  00000000  00000050  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  5 .text         00000000  00000000  00000000  00000060  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  6 .data         00000000  00000000  00000000  00000060  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  7 .bss          00000000  00000000  00000000  00000060  2**0
+                  ALLOC
+  8 .text.__cxx_fatal_exception 00000009  00000000  00000000  00000060  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .text.__cxx_fatal_exception_bool 00000009  00000000  00000000  0000006c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .rodata.str1.4 0000002a  00000000  00000000  00000078  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 11 .text.__cxx_fatal_exception_message 0000001a  00000000  00000000  000000a4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 12 .text.__cxx_fatal_exception_message_va 0000000c  00000000  00000000  000000c0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 13 .text.__cxx_fatal_exception_int 0000001a  00000000  00000000  000000cc  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 14 .data.FATAL_EXCEPTION 00000004  00000000  00000000  000000e8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+ 15 .debug_frame  00000088  00000000  00000000  000000ec  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_info   00001204  00000000  00000000  00000174  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_abbrev 0000032e  00000000  00000000  00001378  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 18 .debug_aranges 00000040  00000000  00000000  000016a6  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 19 .debug_ranges 00000030  00000000  00000000  000016e6  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 20 .debug_line   000002d0  00000000  00000000  00001716  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 21 .debug_str    00000aee  00000000  00000000  000019e6  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 22 .comment      0000003b  00000000  00000000  000024d4  2**0
+                  CONTENTS, READONLY
+ 23 .xtensa.info  00000038  00000000  00000000  0000250f  2**0
+                  CONTENTS, READONLY
+ 24 .xt.lit       00000028  00000000  00000000  00002547  2**0
+                  CONTENTS, RELOC, READONLY
+ 25 .xt.prop      000000c0  00000000  00000000  0000256f  2**0
                   CONTENTS, RELOC, READONLY

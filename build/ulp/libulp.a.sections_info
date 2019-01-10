@@ -1,55 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/ulp/libulp.a:
-
-ulp_macro.o:     file format elf32-xtensa-le
-
-Sections:
-Idx Name          Size      VMA       LMA       File off  Algn
-  0 .literal.do_single_reloc 00000048  00000000  00000000  00000034  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  1 .literal.ulp_process_macros_and_load 000000a0  00000000  00000000  0000007c  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  2 .text         00000000  00000000  00000000  0000011c  2**0
-                  CONTENTS, ALLOC, LOAD, READONLY, CODE
-  3 .data         00000000  00000000  00000000  0000011c  2**0
-                  CONTENTS, ALLOC, LOAD, DATA
-  4 .bss          00000000  00000000  00000000  0000011c  2**0
-                  ALLOC
-  5 .text.reloc_sort_func 00000034  00000000  00000000  0000011c  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  6 .rodata.str1.4 000002c9  00000000  00000000  00000150  2**2
-                  CONTENTS, ALLOC, LOAD, READONLY, DATA
-  7 .text.do_single_reloc 000000d6  00000000  00000000  0000041c  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  8 .text.ulp_process_macros_and_load 00000239  00000000  00000000  000004f4  2**2
-                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  9 .rodata.__func__$3447 00000010  00000000  00000000  00000730  2**2
-                  CONTENTS, ALLOC, LOAD, READONLY, DATA
- 10 .rodata.__func__$3481 0000001c  00000000  00000000  00000740  2**2
-                  CONTENTS, ALLOC, LOAD, READONLY, DATA
- 11 .debug_frame  00000058  00000000  00000000  0000075c  2**2
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 12 .debug_info   00000e03  00000000  00000000  000007b4  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 13 .debug_abbrev 0000021b  00000000  00000000  000015b7  2**0
-                  CONTENTS, READONLY, DEBUGGING
- 14 .debug_loc    000005a5  00000000  00000000  000017d2  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 15 .debug_aranges 00000030  00000000  00000000  00001d77  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 16 .debug_ranges 00000038  00000000  00000000  00001da7  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 17 .debug_line   00000505  00000000  00000000  00001ddf  2**0
-                  CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_str    0000046c  00000000  00000000  000022e4  2**0
-                  CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000003c  00000000  00000000  00002750  2**0
-                  CONTENTS, READONLY
- 20 .xtensa.info  00000038  00000000  00000000  0000278c  2**0
-                  CONTENTS, READONLY
- 21 .xt.lit       00000010  00000000  00000000  000027c4  2**0
-                  CONTENTS, RELOC, READONLY
- 22 .xt.prop      000002dc  00000000  00000000  000027d4  2**0
-                  CONTENTS, RELOC, READONLY
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/ulp/libulp.a:
 
 ulp.o:     file format elf32-xtensa-le
 
@@ -89,15 +38,66 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  16 .debug_ranges 00000020  00000000  00000000  00000ef3  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 17 .debug_line   0000037c  00000000  00000000  00000f13  2**0
+ 17 .debug_line   0000036d  00000000  00000000  00000f13  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_str    000003c9  00000000  00000000  0000128f  2**0
+ 18 .debug_str    000003ce  00000000  00000000  00001280  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000003c  00000000  00000000  00001658  2**0
+ 19 .comment      0000003b  00000000  00000000  0000164e  2**0
                   CONTENTS, READONLY
- 20 .xtensa.info  00000038  00000000  00000000  00001694  2**0
+ 20 .xtensa.info  00000038  00000000  00000000  00001689  2**0
                   CONTENTS, READONLY
- 21 .xt.lit       00000018  00000000  00000000  000016cc  2**0
+ 21 .xt.lit       00000018  00000000  00000000  000016c1  2**0
                   CONTENTS, RELOC, READONLY
- 22 .xt.prop      00000150  00000000  00000000  000016e4  2**0
+ 22 .xt.prop      00000150  00000000  00000000  000016d9  2**0
+                  CONTENTS, RELOC, READONLY
+
+ulp_macro.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.do_single_reloc 00000048  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.ulp_process_macros_and_load 000000a0  00000000  00000000  0000007c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .text         00000000  00000000  00000000  0000011c  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  3 .data         00000000  00000000  00000000  0000011c  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  4 .bss          00000000  00000000  00000000  0000011c  2**0
+                  ALLOC
+  5 .text.reloc_sort_func 00000034  00000000  00000000  0000011c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .rodata.str1.4 000002c5  00000000  00000000  00000150  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  7 .text.do_single_reloc 000000d6  00000000  00000000  00000418  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .text.ulp_process_macros_and_load 00000239  00000000  00000000  000004f0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .rodata.__func__$3447 00000010  00000000  00000000  0000072c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 10 .rodata.__func__$3481 0000001c  00000000  00000000  0000073c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 11 .debug_frame  00000058  00000000  00000000  00000758  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_info   00000e03  00000000  00000000  000007b0  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_abbrev 0000021b  00000000  00000000  000015b3  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 14 .debug_loc    000005a5  00000000  00000000  000017ce  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_aranges 00000030  00000000  00000000  00001d73  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_ranges 00000038  00000000  00000000  00001da3  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_line   000004f6  00000000  00000000  00001ddb  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_str    00000471  00000000  00000000  000022d1  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 19 .comment      0000003b  00000000  00000000  00002742  2**0
+                  CONTENTS, READONLY
+ 20 .xtensa.info  00000038  00000000  00000000  0000277d  2**0
+                  CONTENTS, READONLY
+ 21 .xt.lit       00000010  00000000  00000000  000027b5  2**0
+                  CONTENTS, RELOC, READONLY
+ 22 .xt.prop      000002dc  00000000  00000000  000027c5  2**0
                   CONTENTS, RELOC, READONLY

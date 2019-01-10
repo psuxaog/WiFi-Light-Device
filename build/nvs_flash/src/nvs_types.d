@@ -1,24 +1,24 @@
 src/nvs_types.o: \
- D:/msys32/usr/src/esp-idf/components/nvs_flash/src/nvs_types.cpp \
- D:/msys32/usr/src/esp-idf/components/nvs_flash/src/nvs_types.hpp \
- D:/msys32/usr/src/esp-idf/components/nvs_flash/include/nvs.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/esp_err.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/stdio.h \
- D:/msys32/usr/src/esp-idf/components/newlib/include/sys/stdio.h \
- D:/msys32/usr/src/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp \
- D:/msys32/usr/src/esp-idf/components/esp32/include/rom/crc.h
+ /home/linx/esp32/esp-idf/components/nvs_flash/src/nvs_types.cpp \
+ /home/linx/esp32/esp-idf/components/nvs_flash/src/nvs_types.hpp \
+ /home/linx/esp32/esp-idf/components/nvs_flash/include/nvs.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/esp_err.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/stdio.h \
+ /home/linx/esp32/esp-idf/components/newlib/include/sys/stdio.h \
+ /home/linx/esp32/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp \
+ /home/linx/esp32/esp-idf/components/esp32/include/rom/crc.h
 
-D:/msys32/usr/src/esp-idf/components/nvs_flash/src/nvs_types.hpp:
+/home/linx/esp32/esp-idf/components/nvs_flash/src/nvs_types.hpp:
 
-D:/msys32/usr/src/esp-idf/components/nvs_flash/include/nvs.h:
+/home/linx/esp32/esp-idf/components/nvs_flash/include/nvs.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/esp_err.h:
+/home/linx/esp32/esp-idf/components/esp32/include/esp_err.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/stdio.h:
+/home/linx/esp32/esp-idf/components/newlib/include/stdio.h:
 
-D:/msys32/usr/src/esp-idf/components/newlib/include/sys/stdio.h:
+/home/linx/esp32/esp-idf/components/newlib/include/sys/stdio.h:
 
-D:/msys32/usr/src/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp:
+/home/linx/esp32/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/rom/crc.h:
-/usr/src/esp-idf/components/nvs_flash/src/nvs_types.cpp:
+/home/linx/esp32/esp-idf/components/esp32/include/rom/crc.h:
+/home/linx/esp32/esp-idf/components/nvs_flash/src/nvs_types.cpp:

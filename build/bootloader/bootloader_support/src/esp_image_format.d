@@ -1,84 +1,84 @@
 src/esp_image_format.o: \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/src/esp_image_format.c \
- D:/msys32/usr/src/esp-idf/components/esp32/include/rom/rtc.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/rom/ets_sys.h \
- D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/soc.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/esp_assert.h \
- D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/cpu.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/corebits.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/hal.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/xtensa-versions.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/tie.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include/esp_image_format.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/esp_err.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/esp_flash_data_types.h \
- d:\msys32\usr\src\esp-idf\github\wifilight\build\include\sdkconfig.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include/esp_secure_boot.h \
- D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/efuse_reg.h \
- D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/soc.h \
- D:/msys32/usr/src/esp-idf/components/log/include/esp_log.h \
- D:/msys32/usr/src/esp-idf/components/esp32/include/rom/ets_sys.h \
- D:/msys32/usr/src/esp-idf/components/log/include/esp_log_internal.h \
- D:/msys32/usr/src/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include/bootloader_random.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h \
- D:/msys32/usr/src/esp-idf/components/bootloader_support/include/bootloader_util.h
+ /home/linx/esp32/esp-idf/components/bootloader_support/src/esp_image_format.c \
+ /home/linx/esp32/esp-idf/components/esp32/include/rom/rtc.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/rom/ets_sys.h \
+ /home/linx/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/esp_assert.h \
+ /home/linx/esp32/esp-idf/components/soc/esp32/include/soc/cpu.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/corebits.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/hal.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/xtensa-versions.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/tie.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include/esp_image_format.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/esp_err.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/esp_flash_data_types.h \
+ /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/bootloader/../include/sdkconfig.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include/esp_secure_boot.h \
+ /home/linx/esp32/esp-idf/components/soc/esp32/include/soc/efuse_reg.h \
+ /home/linx/esp32/esp-idf/components/soc/esp32/include/soc/soc.h \
+ /home/linx/esp32/esp-idf/components/log/include/esp_log.h \
+ /home/linx/esp32/esp-idf/components/esp32/include/rom/ets_sys.h \
+ /home/linx/esp32/esp-idf/components/log/include/esp_log_internal.h \
+ /home/linx/esp32/esp-idf/components/spi_flash/include/esp_spi_flash.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include/bootloader_random.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h \
+ /home/linx/esp32/esp-idf/components/bootloader_support/include/bootloader_util.h
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/rom/rtc.h:
+/home/linx/esp32/esp-idf/components/esp32/include/rom/rtc.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/rom/ets_sys.h:
+/home/linx/esp32/esp-idf/components/esp32/include/rom/ets_sys.h:
 
-D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/soc.h:
+/home/linx/esp32/esp-idf/components/soc/esp32/include/soc/soc.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/esp_assert.h:
+/home/linx/esp32/esp-idf/components/esp32/include/esp_assert.h:
 
-D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/cpu.h:
+/home/linx/esp32/esp-idf/components/soc/esp32/include/soc/cpu.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/corebits.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/corebits.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/hal.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/hal.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/xtensa-versions.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/xtensa-versions.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/core-matmap.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/core-matmap.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/xtensa/config/tie.h:
+/home/linx/esp32/esp-idf/components/esp32/include/xtensa/config/tie.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include/esp_image_format.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/include/esp_image_format.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/esp_err.h:
+/home/linx/esp32/esp-idf/components/esp32/include/esp_err.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include/esp_flash_partitions.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/include/esp_flash_partitions.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/esp_flash_data_types.h:
+/home/linx/esp32/esp-idf/components/esp32/include/esp_flash_data_types.h:
 
-d:\msys32\usr\src\esp-idf\github\wifilight\build\include\sdkconfig.h:
+/home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/bootloader/../include/sdkconfig.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include/esp_secure_boot.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/include/esp_secure_boot.h:
 
-D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/efuse_reg.h:
+/home/linx/esp32/esp-idf/components/soc/esp32/include/soc/efuse_reg.h:
 
-D:/msys32/usr/src/esp-idf/components/soc/esp32/include/soc/soc.h:
+/home/linx/esp32/esp-idf/components/soc/esp32/include/soc/soc.h:
 
-D:/msys32/usr/src/esp-idf/components/log/include/esp_log.h:
+/home/linx/esp32/esp-idf/components/log/include/esp_log.h:
 
-D:/msys32/usr/src/esp-idf/components/esp32/include/rom/ets_sys.h:
+/home/linx/esp32/esp-idf/components/esp32/include/rom/ets_sys.h:
 
-D:/msys32/usr/src/esp-idf/components/log/include/esp_log_internal.h:
+/home/linx/esp32/esp-idf/components/log/include/esp_log_internal.h:
 
-D:/msys32/usr/src/esp-idf/components/spi_flash/include/esp_spi_flash.h:
+/home/linx/esp32/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include/bootloader_random.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/include/bootloader_random.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h:
 
-D:/msys32/usr/src/esp-idf/components/bootloader_support/include/bootloader_util.h:
-/usr/src/esp-idf/components/bootloader_support/src/esp_image_format.c:
+/home/linx/esp32/esp-idf/components/bootloader_support/include/bootloader_util.h:
+/home/linx/esp32/esp-idf/components/bootloader_support/src/esp_image_format.c:

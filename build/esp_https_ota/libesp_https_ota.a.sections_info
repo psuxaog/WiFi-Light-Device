@@ -1,4 +1,4 @@
-In archive D:/msys32/usr/src/esp-idf/github/wifilight/build/esp_https_ota/libesp_https_ota.a:
+In archive /home/linx/esp32/esp-idf/WiFi-Light-ESP32-Device/build/esp_https_ota/libesp_https_ota.a:
 
 esp_https_ota.o:     file format elf32-xtensa-le
 
@@ -32,15 +32,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  13 .debug_ranges 00000018  00000000  00000000  00001847  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 14 .debug_line   000004a2  00000000  00000000  0000185f  2**0
+ 14 .debug_line   0000049a  00000000  00000000  0000185f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 15 .debug_str    00000bfd  00000000  00000000  00001d01  2**0
+ 15 .debug_str    00000c02  00000000  00000000  00001cf9  2**0
                   CONTENTS, READONLY, DEBUGGING
- 16 .comment      0000003c  00000000  00000000  000028fe  2**0
+ 16 .comment      0000003b  00000000  00000000  000028fb  2**0
                   CONTENTS, READONLY
- 17 .xtensa.info  00000038  00000000  00000000  0000293a  2**0
+ 17 .xtensa.info  00000038  00000000  00000000  00002936  2**0
                   CONTENTS, READONLY
- 18 .xt.lit       00000010  00000000  00000000  00002972  2**0
+ 18 .xt.lit       00000010  00000000  00000000  0000296e  2**0
                   CONTENTS, RELOC, READONLY
- 19 .xt.prop      000001a4  00000000  00000000  00002982  2**0
+ 19 .xt.prop      000001a4  00000000  00000000  0000297e  2**0
                   CONTENTS, RELOC, READONLY
